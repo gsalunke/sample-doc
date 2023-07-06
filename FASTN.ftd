@@ -6,6 +6,7 @@ favicon: /-/gsalunke.github.io/sample-doc/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/business-card
 
 -- fastn.auto-import: gsalunke.github.io/sample-doc/FASTN/ds
 -- fastn.auto-import: gsalunke.github.io/sample-doc/assets
